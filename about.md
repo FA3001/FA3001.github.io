@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Engineer who practicing data engineering projects. I continuously learn and keep myself up-to-date on the principles of distributed computing, big data applications, how to handle streaming data, scheduling/orchestrating pipelines, working principles of cloud environments, I also develop my coding skills, especially in Python and SQL. Welcome to my GitHub :)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+ I’m currently learning and practicing SQL, Databases, Data Pipelines, Data Infrastructure, Data Warehousing and more.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:faizaahmedm.40@gmail.com)
