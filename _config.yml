@@ -9,7 +9,7 @@ name: Faiza Ahmed
 description: Data Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: [8fa3fad86c08d2adc72ab299439eec70](https://github.com/user-attachments/assets/1490ac98-05a8-4ca7-8dff-dede6223947e)
+avatar: "https://github.com/user-attachments/assets/1490ac98-05a8-4ca7-8dff-dede6223947e"
 
 #
 # Flags below are optional
@@ -17,19 +17,19 @@ avatar: [8fa3fad86c08d2adc72ab299439eec70](https://github.com/user-attachments/a
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  # dribbble:
   email: faizaahmedm.40@gmail.com
-  facebook:
-  flickr:
+  # facebook:
+  # flickr:
   github: FA3001
-  instagram:
+  # instagram:
   linkedin: faiza-a-3792ba2a5
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  # pinterest:
+  # rss: # just type anything here for a working RSS icon
+  # twitter: 
+  # stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  # youtube: # channel/<your_long_string> or user/<user-name>
+  # googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
