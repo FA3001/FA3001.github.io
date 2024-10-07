@@ -11,4 +11,4 @@ Data Engineer who practicing data engineering projects. I continuously learn and
  I’m currently learning and practicing SQL, Databases, Data Pipelines, Data Infrastructure, Data Warehousing and more.
 ### Contact me
 
-[email@domain.com](mailto:faizaahmedm.40@gmail.com)
+[faizaahmedm.40@gmail.com](mailto:faizaahmedm.40@gmail.com)
