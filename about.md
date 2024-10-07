@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Data Engineer who practicing data engineering projects. I continuously learn and keep myself up-to-date on the principles of distributed computing, big data applications, how to handle streaming data, scheduling/orchestrating pipelines, working principles of cloud environments, I also develop my coding skills, especially in Python and SQL. Welcome to my GitHub :)
+Data Engineer who practicing data engineering projects. I continuously learn and keep myself up-to-date on the principles of distributed computing, big data applications, how to handle streaming data, scheduling/orchestrating pipelines, working principles of cloud environments, I also develop my coding skills, especially in Python and SQL. :)
 
 ### More Information
 
